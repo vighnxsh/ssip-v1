@@ -1,5 +1,11 @@
 # Sol Stonks
 
+## landing page --> Login page (multiple logins) --> fir waha ekdum app jaisa interface 
+## niche 3 buttons (as of now) , Invest (baskets / case ), Portfolio/profile (tax management, profit loss)  , Feed crypto reels with CTA for buyin tokens / caskets
+
+
+
+
 This project combines the power of artificial intelligence with decentralized finance on the Solana blockchain. **Sol Stonks** is a next-generation DeFi platform that leverages machine learning for enhanced decision-making, risk management, and yield optimization.
 
 ## Key Features
